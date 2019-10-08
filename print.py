@@ -1,3 +1,3 @@
-print("Hello!")
-print("Welcome to Python Essentials!")
-print("THIS IS SANDBOX MODE.")
+x = 2 // 4
+y = 4 // x
+print(y)
